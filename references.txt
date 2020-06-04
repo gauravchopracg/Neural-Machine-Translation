@@ -1,0 +1,6 @@
+https://www.coursera.org/learn/nlp-sequence-models
+https://www.coursera.org/learn/language-processing
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://machinelearningmastery.com/introduction-neural-machine-translation/
+https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
