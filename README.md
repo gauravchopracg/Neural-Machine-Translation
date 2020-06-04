@@ -1,4 +1,4 @@
-# Neural-Machine-Translation
+Neural-Machine-Translation
 ===
 The aim of this repository is to illustrate how to create and train a neural network for sequence to sequence language translation (seq2seq) for sentences and phrases from English to Hindi.
 
